@@ -1,1 +1,1 @@
-# its ust for learn github
+# its just for learn github
