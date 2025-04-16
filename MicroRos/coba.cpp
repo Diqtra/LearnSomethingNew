@@ -1,3 +1,4 @@
+// Program MicroRos sebagai subcriber
 #include <stdio.h>
 #include <rcl/rcl.h>
 #include <rclc/rclc.h>
